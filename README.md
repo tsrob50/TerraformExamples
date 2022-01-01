@@ -15,3 +15,8 @@ Link - https://www.ciraltos.com/use-for_each-in-a-terraform-module-with-azure-vn
 Example for using data source to access existing Azure resources as part of a deployment
 
 Link - 
+
+## RemoteBackend
+Example for using an Azure storage account as a remote, shared location for the Terraform state file
+
+Link - 
