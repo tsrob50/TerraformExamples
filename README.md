@@ -19,4 +19,9 @@ Link - https://www.ciraltos.com/use-existing-resources-with-data-sources-in-terr
 ## RemoteBackend
 Example for using an Azure storage account as a remote, shared location for the Terraform state file
 
-Link - 
+Link - https://www.ciraltos.com/remote-backend-state-with-terraform-and-azure-storage/
+
+## DynamicNSG
+Example for using Dynamic blocks in Terraform to create multiple instances of a sub-resource
+
+Link -
